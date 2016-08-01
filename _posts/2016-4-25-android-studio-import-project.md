@@ -3,7 +3,7 @@ layout:     post
 title:      "Android Studio导入项目" 
 subtitle:   " JUST DO IT"
 date:       2016-04-25 14:53:00
-author:     "Wanglili"
+author:     "nobe"
 header-img: "img/emily.jpg"
 tag:
    - AndroidStudio     
