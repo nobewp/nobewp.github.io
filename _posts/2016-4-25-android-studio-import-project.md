@@ -1,7 +1,7 @@
 ---    
 layout:     post
 title:      "Android Studio导入项目" 
-subtitle:   " \"C'est la vie !\""
+subtitle:   " JUST DO IT"
 date:       2016-04-25 14:53:00
 author:     "Wanglili"
 header-img: "img/emily.jpg"
