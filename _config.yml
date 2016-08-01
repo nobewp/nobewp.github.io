@@ -1,15 +1,15 @@
 # Site settings
-title: HolyKnight
+title: NobeWP‘Blog
 header-img: img/hello-world.jpg
-email: 764262813@qq.com
-description: "C'est la vie !"
+email: 784932580@qq.com
+description: "JUST DO IT "
 baseurl: ""
 url: ""
 twitter_username: 
-github_username:  lyxwll
+github_username:  nobewp
 facebook_username:  
 weibo_username: 
-zhihu_username: holyknight
+zhihu_username: 
 
 # Build settings
 markdown: kramdown 
